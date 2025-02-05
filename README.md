@@ -1,4 +1,4 @@
-## Byte Pair Encoding
+### Byte Pair Encoding
 
 This repository contains the necessary code for implementing the Byte Pair Encoding algorithm. Most of the codes are the same as the minimal version generated Andrej Karpathy (https://github.com/karpathy/minbpe).
 

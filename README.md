@@ -8,9 +8,12 @@ This repository contains the necessary code for implementing the Byte Pair Encod
 
 from tokenizer import BytePairEncoding
 
-tokenizer = BytePairEncoding(pattern)
+tokenizer = BytePairEncoding(regex)
 
 tokenizer.training(text, number)
 
 ```
-(https://github.com/karpathy/minbpe).
+
+## Reference
+
+https://github.com/karpathy/minbpe
